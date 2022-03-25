@@ -1,5 +1,5 @@
-<body style="font-color:ambar">
-<h1> Front-End - PROJETO-ROTA46-4.0 </h1>
+<body style="font-color: #ffbf00;">
+<h1 style="font-color: #ffbf00;"> Front-End - PROJETO-ROTA46-4.0 </h1>
 <img src="https://i.imgur.com/k2txCZH.png">
 
 
