@@ -1,3 +1,4 @@
+<body style="font-color:ambar">
 <h1> Front-End - PROJETO-ROTA46-4.0 </h1>
 <img src="https://i.imgur.com/k2txCZH.png">
 
@@ -17,6 +18,6 @@
 <h6>Front-end</h6> 
 <p>As views da aplicação foram baseadas na biblioteca React, utilizando axios para consumir dados de uma api. 
 </p>
-
+</body>
 
 
