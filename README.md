@@ -1,13 +1,12 @@
 <body style="font-color: #ffbf00;">
-<h1 style="font-color: #ffbf00;"> Front-End - PROJETO-ROTA46-4.0 </h1>
+<h1 style="font-color: #ffbf00;"> Front-End - PROJETO-ROTA46</h1>
 <img src="https://i.imgur.com/k2txCZH.png">
-
 
 <h3>Atividade Prática do módulo 5</h3>
 
 <h4>Olá,</h4>
 
-<p>Agora, seguindo padrões de projeto, atualizei mais uma vez a aplicação WEB Agência de Viagens, usando o Ecosistema Spring, com Front-end usando ReactJS e Back-end com Java Spring Boot, Spring MVC, Persistencia de Dados com Hibernate. 
+<p>Seguindo padrões de projeto, atualizei mais uma vez a aplicação WEB Agência de Viagens, usando o Ecosistema Spring, com Front-end usando ReactJS e Back-end com Java Spring Boot, Spring MVC, Persistencia de Dados com Hibernate. 
 </p>
 
 <h6>Banco de dados</h6>  
